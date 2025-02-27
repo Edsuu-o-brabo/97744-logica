@@ -1,7 +1,7 @@
 import os
 os.system("clear")
 
-1 =strinput"Picanha")
+1 = str(input"Picanha")
 
 print("""
 +=+=+=+=+=+=+    MENU     +=+=+=+=+=+=+
