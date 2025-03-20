@@ -14,3 +14,4 @@ media = soma / 4
 
 print()
 print(f"Media: {media}")
+print("Vai ser pau e pica na xereca da bandida")
